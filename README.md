@@ -12,7 +12,7 @@ Currently studying golang, django, k8s, Cloud platform(GCP) django
 
 ## :star: Stats
 
-[![Hoonki's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hoonkii)](https://github.com/Hoonkii/github-readme-stats)
+[![Hoonki's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hoonkii&count_private=true)](https://github.com/Hoonkii/github-readme-stats)
 
 ## 📫 Contact
 
