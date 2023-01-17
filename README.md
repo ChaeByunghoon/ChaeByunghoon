@@ -2,7 +2,7 @@
 
 ## Backend Developer
 
-Currently studying spring boot, nodejs, django, k8s, Cloud platform(GCP)
+Currently studying spring boot, nodejs, django, k8s, Cloud platform(GCP), Software architecture
 
 
 ## 🔭 Tech Stack
